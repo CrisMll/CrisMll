@@ -1,4 +1,4 @@
-<p align="center">Hi there! I'm Cris!!'ve been working for over 15 years in a tax consultancy, but I've always dreamed of studying something related to computer science, that is why after all this years I'm in my first year 
+<p align="center">Hi there! I'm Cris! !'ve been working for over 15 years in a tax consultancy, but I've always dreamed of studying something related to computer science, that is why after all this time, currently, I'm in my first year 
 of Web Application Development (DAW). At the moment, we are focusing on learning Java, MySQL, Linux/Unix and web development using HTML and CSS.
     In my free time, I enjoy practicing sports.
 <h4 align="center">📫 Contact Me</h4>

@@ -1,5 +1,5 @@
-<p align="center">Hi there! I'm Cris!! after working for over 15 years in a tax consultancy, I realized that I needed to change the course of my professional career.
-    Currently, I'm studying the first year of Web Application Development (DAW). At the moment,  we are focusing on learning Java, MySQL, Linux/Unix and web development using HTML and CSS.
+<p align="center">Hi there! I'm Cris!!'ve been working for over 15 years in a tax consultancy, but I've always dreamed of studying something related to computer science, that is why after all this years I'm in my first year 
+of Web Application Development (DAW). At the moment, we are focusing on learning Java, MySQL, Linux/Unix and web development using HTML and CSS.
     In my free time, I enjoy practicing sports.
 <h4 align="center">📫 Contact Me</h4>
 

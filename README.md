@@ -1,10 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cris Mll
-================================================================================================================================
 
+<h1>Hi! I'm <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Cris Mll" style="width: 33px; margin-right: 10px;"> Cris Mll</h1>
+
+ 
+==================================================================
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="PC and coding" style="width: 200px; margin-right: 200px;">
 <p>
 <strong>I'm a Web Dev Student</strong> in my last year of DAW. I've started to study programming after I've been working in tax consultancy for over 15 years. At the moment, the focus of the course is placed on web development server and client environment, cloud computing and interface design .<br/> Additionally, I'm currently studying at the University of Málaga in Advance Artificial Intelligence and Data Science through the Samsung Innovation Campus program.<br/> On the other hand, I'm taking an online courses in Relational Databases, SQL, and MySQL and combining my knowledge of JavaScript and PHP with other online courses. <br/> In my free time, I enjoy practicing sports, videogames and coding.
 </p>
 <br/> 
+
+
 
 * 🌍  I'm based in Madrid (Spain).
 * ✉️  You can contact me at **[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.https://www.linkedin.com/in/crismll/)**
@@ -13,6 +19,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🤝  Goals: I would like to grow professionally and create my own projects.
 * ⚡  I love sports 🏋️‍♀️⚽ and videogames 🎮
 <br/>
+
 
 ## Languages and Tools:
 

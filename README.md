@@ -13,8 +13,7 @@
 
 
 * 🌍  I'm based in Madrid (Spain).
-* ✉️  You can contact me at **[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/
-crismll/)**
+* ✉️ You can contact me at **[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crismll/)**
 * 🚀  I'm currently working on **my own portfolio and other web projects.**
 * 🧠  I'm learning JavaScript, HTML/CSS, SQL, Java, Python, Machine Learning, PHP and Laravel.
 * 🤝  Goals: I would like to grow professionally and create my own projects.

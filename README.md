@@ -71,7 +71,7 @@ Actualmente estoy compaginándolo estudiando el Diploma Universitario en Advance
 </p>
 
 * 🌍 Vivo en Madrid (España).
-* ✉️ Puedes contactar conmigo en **[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.https://www.linkedin.com/in/crismll/)**
+* ✉️ Puedes contactar conmigo en  **[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crismll/)**
 * 🚀 Actualmente estoy trabajando en mi propio portfolio y otros proyectos web.
 * 🧠 Estoy aprendiendo JavaScript, HTML/CSS, SQL, Java, Python, Machine Learning, PHP y Laravel.
 * 🤝 Objetivos: Me gustaría crecer profesionalmente y crear mis propios proyectos.

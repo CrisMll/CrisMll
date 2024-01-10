@@ -6,7 +6,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="PC and coding" style="width: 200px; margin-right: 200px;">
 <p>
-<strong>I'm a Web Dev Student</strong> in my last year of DAW (Design and development of web applications). I've started to study programming after I've been working in tax consultancy for over 15 years. At the moment, the focus of the course is placed on web development server and client environment, cloud computing, web application deployment and interface design .<br/> Currently, I'm combining my studies with the University Course in Advanced Artificial Intelligence and Data Science at the University of Malaga through the Samsung Innovation Campus program. Additionally, I am taking online courses to consolidate my knowledge in JavaScript, PHP, and relational databases, including SQL.
+<strong>I'm a Web Dev Student</strong> in my last year of DAW (Design and development of web applications). I've started to study programming after working in tax consultancy for many years. At the moment, the focus of the course is placed on web development server and client environment, cloud computing, web application deployment and interface design .<br/> Currently, I'm combining my studies with the University Course in Advanced Artificial Intelligence and Data Science at the University of Malaga through the Samsung Innovation Campus program. Additionally, I am taking online courses to consolidate my knowledge in JavaScript, PHP, and relational databases, including SQL.
 </p>
 <br/> 
 
@@ -65,7 +65,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="PC and coding" style="width: 200px; margin-right: 200px;">
 
-<p>Soy estudiante de <strong>Desarrollo de Aplicaciones Web</strong> y estoy cursando mi último año de DAW. Después de haber estado trabajando como asesora fiscal durante más de 15 años, empecé a estudiar programación primero con cursos online y en 2022 ya de manera oficial. <br/>
+<p>Soy estudiante de <strong>Desarrollo de Aplicaciones Web</strong> y estoy cursando mi último año de DAW. Después de haber estado trabajando todo este tiempo como asesora fiscal, empecé a estudiar programación primero con cursos online y en 2022 ya de manera oficial. <br/>
 Por el momento, el enfoque del curso se centra en desarrollo web en entorno cliente y sevidor, cloud computing, despliegue de aplicaciones y diseño de interfaces.
 Actualmente estoy compaginándolo estudiando el Diploma Universitario en Advance Artificial Intelligence y Data Science en la Universidad de Málaga a través del programa Samsung Innovation Campus, además de otros cursos online para consolidar mis conocimientos en JavaScript, Php y bases de datos relacionales y SQL.<br/>
 </p>

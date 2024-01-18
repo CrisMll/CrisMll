@@ -8,7 +8,7 @@
 <p><strong>I'm a Web Dev Student</strong> in my last year of DAW (Design and development of web applications).</p>
 <p>I've started to study programming after working in tax consultancy for many years. At the moment, the focus of the course is placed on web development server and client environment, cloud computing, web application deployment and interface design .<br/>
 Currently, I'm combining my studies with the University Course in Advanced Artificial Intelligence and Data Science at the University of Malaga through the Samsung Innovation Campus program. Additionally, I am taking online courses to consolidate my knowledge in JavaScript, PHP, and relational databases, including SQL.</p>
-<p>When I'm not typing, I enjoy playing sports and board game nights or videogames.</p>
+<p>When I'm not typing, I enjoy playing sports and board games or videogames nights .</p>
 <br/>
 
 

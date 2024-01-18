@@ -63,7 +63,7 @@ Currently, I'm combining my studies with the University Course in Advanced Artif
 ========================================
 
 
-<h1>Hola! Soy <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Cris Mll" style="width: 33px; margin-right: 10px;"> Cris Mll</h1>
+<h1>¡Hola! Soy <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Cris Mll" style="width: 33px; margin-right: 10px;"> Cris Mll</h1>
 
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="PC and coding" style="width: 200px; margin-right: 200px;">

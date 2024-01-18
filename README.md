@@ -5,10 +5,11 @@
 ==================================================================
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="PC and coding" style="width: 200px; margin-right: 200px;">
-<p>
-<strong>I'm a Web Dev Student</strong> in my last year of DAW (Design and development of web applications). I've started to study programming after working in tax consultancy for many years. At the moment, the focus of the course is placed on web development server and client environment, cloud computing, web application deployment and interface design .<br/> Currently, I'm combining my studies with the University Course in Advanced Artificial Intelligence and Data Science at the University of Malaga through the Samsung Innovation Campus program. Additionally, I am taking online courses to consolidate my knowledge in JavaScript, PHP, and relational databases, including SQL.
-</p>
-<br/> 
+<p><strong>I'm a Web Dev Student</strong> in my last year of DAW (Design and development of web applications).</p>
+<p>I've started to study programming after working in tax consultancy for many years. At the moment, the focus of the course is placed on web development server and client environment, cloud computing, web application deployment and interface design .<br/>
+Currently, I'm combining my studies with the University Course in Advanced Artificial Intelligence and Data Science at the University of Malaga through the Samsung Innovation Campus program. Additionally, I am taking online courses to consolidate my knowledge in JavaScript, PHP, and relational databases, including SQL.</p>
+<p>When I'm not typing, I enjoy playing sports and board game nights or videogames.</p>
+<br/>
 
 
 
@@ -18,8 +19,10 @@
 * 🧠  I'm learning JavaScript, HTML/CSS, SQL, Java, Python, Machine Learning, PHP and Laravel.
 * 🤝  Goals: I would like to grow professionally and create my own projects.
 * ⚡  I love sports 🏋️‍♀️⚽ and videogames 🎮
-<br/>
 
+
+
+<br/>
 
 ## Languages and Tools:
 
@@ -65,10 +68,14 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="PC and coding" style="width: 200px; margin-right: 200px;">
 
-<p>Soy estudiante de <strong>Desarrollo de Aplicaciones Web</strong> y estoy cursando mi último año de DAW. Después de haber estado trabajando todo este tiempo como asesora fiscal, empecé a estudiar programación primero con cursos online y en 2022 ya de manera oficial. <br/>
+<p>Soy estudiante de <strong>Desarrollo de Aplicaciones Web</strong> y estoy cursando mi último año de DAW.</p>
+<p>Después de haber estado trabajando todo este tiempo como asesora fiscal, empecé a estudiar programación primero con cursos online y en 2022 ya de manera oficial.
 Por el momento, el enfoque del curso se centra en desarrollo web en entorno cliente y sevidor, cloud computing, despliegue de aplicaciones y diseño de interfaces.
-Actualmente estoy compaginándolo estudiando el Diploma Universitario en Advance Artificial Intelligence y Data Science en la Universidad de Málaga a través del programa Samsung Innovation Campus, además de otros cursos online para consolidar mis conocimientos en JavaScript, Php y bases de datos relacionales y SQL.<br/>
-</p>
+Actualmente estoy compaginándolo estudiando el Diploma Universitario en Advance Artificial Intelligence y Data Science en la Universidad de Málaga a través del programa Samsung Innovation Campus, además de otros cursos online para consolidar mis conocimientos en JavaScript, Php y bases de datos relacionales y SQL.</p>
+<p>Cuando no estoy tecleando, me encanta practicar deporte o las noches de juegos de mesa o videojuegos.</p>
+
+
+<br/>
 
 * 🌍 Vivo en Madrid (España).
 * ✉️ Puedes contactar conmigo en  **[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crismll/)**

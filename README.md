@@ -14,7 +14,7 @@ Currently, I'm combining my studies with the University Course in Advanced Artif
 
 
 * 🌍  I'm based in Madrid (Spain).
-* ✉️ You can contact me at **[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crismll/)**
+* ✉️ You can contact me at <a href="https://www.linkedin.com/in/crismll/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 * 🚀  I'm currently working on **my own portfolio and other web projects.**
 * 🧠  I'm learning JavaScript, HTML/CSS, SQL, Java, Python, Machine Learning, PHP and Laravel.
 * 🤝  Goals: I would like to grow professionally and create my own projects.
@@ -78,7 +78,7 @@ Actualmente estoy compaginándolo estudiando el Diploma Universitario en Advance
 <br/>
 
 * 🌍 Vivo en Madrid (España).
-* ✉️ Puedes contactar conmigo en  **[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crismll/)**
+* ✉️ Puedes contactar conmigo en **<a href="https://www.linkedin.com/in/crismll/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">**
 * 🚀 Actualmente estoy trabajando en mi propio portfolio y otros proyectos web.
 * 🧠 Estoy aprendiendo JavaScript, HTML/CSS, SQL, Java, Python, Machine Learning, PHP y Laravel.
 * 🤝 Objetivos: Me gustaría crecer profesionalmente y crear mis propios proyectos.

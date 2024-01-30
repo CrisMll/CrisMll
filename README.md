@@ -24,7 +24,7 @@ Currently, I'm combining my studies with the University Course in Advanced Artif
 
 <br/>
 
-## Languages I use most and I'm focus on:
+## Languages I use most and focus on:
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
